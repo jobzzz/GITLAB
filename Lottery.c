@@ -8,7 +8,7 @@ float WinAmount[10] = {50000, 10000, 10000, 5000, 5000, 5000, 5000, 3000, 3000, 
   
 int N = 30;
   
-int i, won; 
+int i, wins; 
   
   
 int YourLotteryNo;  
